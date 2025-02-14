@@ -1,1 +1,1 @@
-# django_laboratry
+# django_laboratory
